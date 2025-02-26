@@ -1,6 +1,3 @@
 this is my first commit from git 
 
 this is my second line from github
-
-this is my third line for git fetch
-
